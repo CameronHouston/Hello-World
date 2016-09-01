@@ -1,2 +1,2 @@
 # Hello-World
-For ideas
+For ideas on projects
